@@ -1,1 +1,1 @@
-# CadastraEquipeGUI
+Trabalho da faculdade cadastrando Equipes usando GUI(Swing).
